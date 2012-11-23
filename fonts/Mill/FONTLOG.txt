@@ -1,0 +1,47 @@
+FONTLOG for Mill
+----------------
+This file provides detailed information on the Mill font software.
+This information should be distributed along with the Mill fonts and any derivative works.
+
+
+Basic Font Information
+----------------------
+Drawn in march 2012.
+See: http://www.mathieu-g.be/fr/2012/09/autour-et-sur-le-trait/
+
+During the elaboration of one of my project consisting in do-it-yourself cut up furniture in CNC, I wished to include building instruction directly in the wood.
+
+A rapid and unsuccesful search for a free font “specialised” for engraving convinced me to design a typeface drawn by its skeleton.
+
+It consist in a modular font, drawn in Inkscape, then exported to FontForge. Surprise, when exporting the ttf, FontForge closes the open paths. So it's not possible to use the font this way. A second export since Inkscape, this time with a thin stroke, allowed to generate a font usable for screen, but not optimal. For the purpose of the engraving machine, the stroke font is essential since the plot represents the millreamer pathway, without really taking into account the diameter of the tool.
+
+Open question, how to generate a font like this, able to contain open path? Or, that can stay in a skeleton state?
+
+
+Information for Contributors
+----------------------------
+Copyright (C) 2012 Mathieu Gabiot & OSP
+http://ospublish.constantvzw.org.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+
+Acknowledgements
+-------------------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: Mathieu Gabiot
+E: contact@mathieu-g.be 
+W: http://www.mathieu-g.be/
+
+N: Élise Duverdier
+E: eliseduverdier@gmail.com
+W: http://elise.duverdier.free.fr
+D: Added collection of arrows.
